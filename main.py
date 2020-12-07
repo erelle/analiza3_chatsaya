@@ -2,6 +2,7 @@
 #id: 32446443
 #name: roi putterman
 #id: 314919010
+#github link:https://github.com/erelle/analiza3_chatsaya
 import math
 
 import sympy
