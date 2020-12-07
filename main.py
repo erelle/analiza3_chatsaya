@@ -44,7 +44,7 @@ def Bisection_Method (polinom,Range,exp):
                     checkdr.append(float(numi))
                     checkdr.append(float(i))
                 flag=0
-        print("first func: ")
+        print("main func: ")
         bl=1
         op(check,error,bl)
         print("dr func:")
